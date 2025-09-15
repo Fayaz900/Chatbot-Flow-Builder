@@ -4,24 +4,24 @@ Chatbot Flow Builder is a React-based visual editor for designing chatbot conver
 
 **Features**
 
-Drag-and-drop flow editor with interactive canvas
+▶️Drag-and-drop flow editor with interactive canvas
 
-Editable Message Node (extensible to more node types)
+▶️Editable Message Node (extensible to more node types)
 
-Side panels for adding nodes and editing node content
+▶️Side panels for adding nodes and editing node content
 
-Zoom, pan, and minimap support
+▶️Zoom, pan, and minimap support
 
 **Tech Stack**
 
-React.js
+▶️React.js
 
-React Flow
+▶️React Flow
 
-Modular CSS for component styling
+▶️Modular CSS for component styling
 
 **Future Enhancements**
 
-Add more node types 
+▶️Add more node types 
 
-Backend integration to save flows
+▶️Backend integration to save flows
