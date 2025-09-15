@@ -1,12 +1,27 @@
-# React + Vite
+Chatbot Flow Builder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Chatbot Flow Builder is a React-based visual editor for designing chatbot conversations. Users can drag and drop nodes on a canvas, connect them, and edit their content.
 
-Currently, two official plugins are available:
+**Features**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Drag-and-drop flow editor with interactive canvas
 
-## Expanding the ESLint configuration
+Editable Message Node (extensible to more node types)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Side panels for adding nodes and editing node content
+
+Zoom, pan, and minimap support
+
+**Tech Stack**
+
+React.js
+
+React Flow
+
+Modular CSS for component styling
+
+**Future Enhancements**
+
+Add more node types 
+
+Backend integration to save flows
